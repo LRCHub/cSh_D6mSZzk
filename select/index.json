@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "teleport",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-11T09:14:42.595984Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Teleport Massive",
+      "artist": "Bassnectar feat. Zumbi",
+      "has_synced": true,
+      "path": "select/01_Teleport_Massive_Bassnectar_feat._Zumbi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Teleport Massive (Feat. Zumbi)",
+      "artist": "Bassnectar",
+      "has_synced": true,
+      "path": "select/02_Teleport_Massive_(Feat._Zumbi)_Bassnectar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Teleport 2 Me, Jamie",
+      "artist": "WZRD feat. Desire",
+      "has_synced": true,
+      "path": "select/03_Teleport_2_Me,_Jamie_WZRD_feat._Desire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Teleport 2 Me, Jamie",
+      "artist": "WZRD",
+      "has_synced": true,
+      "path": "select/04_Teleport_2_Me,_Jamie_WZRD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Teleport A & B",
+      "artist": "The Spill Canvas",
+      "has_synced": true,
+      "path": "select/05_Teleport_A_&_B_The_Spill_Canvas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jurus Rahasia Teleport",
+      "artist": "JKT48",
+      "has_synced": true,
+      "path": "select/06_Jurus_Rahasia_Teleport_JKT48.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Teleport",
+      "artist": "Grabbitz",
+      "has_synced": true,
+      "path": "select/07_Teleport_Grabbitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Teleport Massive (Bassnectar Remix)",
+      "artist": "Bassnectar",
+      "has_synced": false,
+      "path": "select/08_Teleport_Massive_(Bassnectar_Remix)_Bassnectar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Teleport Massive - Bassnectar Remix",
+      "artist": "Bassnectar",
+      "has_synced": false,
+      "path": "select/09_Teleport_Massive_-_Bassnectar_Remix_Bassnectar.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teleport",
+      "artist": "Man With No Name",
+      "has_synced": false,
+      "path": "select/10_Teleport_Man_With_No_Name.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "teleport",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_teleport_04_Limited_Sazabys.txt"
+    }
+  ]
+}
